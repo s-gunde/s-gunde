@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/srujanagunde/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://public.tableau.com/app/profile/sgunde/vizzes">
+    <img src="https://img.shields.io/badge/tableau-darkblue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+  </a>
  </div>
 
  <div id="badges" align="center">

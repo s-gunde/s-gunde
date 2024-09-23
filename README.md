@@ -27,9 +27,9 @@
 
 ### :woman_technologist: About Me :
 
-:pushpin: I solve business challenges with data. With 5+ years in Retail and E-Commerce as an Analyst, I specialize in Supply Chain, Pricing, and Catalog Management. I love finding practical solutions to everyday problems.
+- I solve business challenges with data. With 5+ years in Retail and E-Commerce as an Analyst, I specialize in Supply Chain, Pricing, and Catalog Management. I love finding practical solutions to everyday problems.
 
-:pushpin: I’m a Computer Science grad with skills in bulding machine learning models and querying databases. Outside of work, I enjoy Tableau competitions and explore new places.
+- I’m a Computer Science grad with skills in bulding machine learning models and querying databases. Outside of work, I enjoy Tableau competitions and explore new places.
 
 ---
 

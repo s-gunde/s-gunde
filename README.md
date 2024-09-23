@@ -5,10 +5,13 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/srujanagunde/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=darkblue" alt="LinkedIn Badge"/>
   </a>
   <a href="https://public.tableau.com/app/profile/sgunde/vizzes">
-    <img src="https://img.shields.io/badge/tableau-darkblue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+    <img src="https://img.shields.io/badge/tableau-white?style=for-the-badge&logo=tableau&logoColor=orange" alt="Tableau Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/srujanasgsg">
+    <img src="https://img.shields.io/badge/hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=green" alt="Tableau Badge"/>
   </a>
  </div>
 

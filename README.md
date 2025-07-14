@@ -27,7 +27,7 @@
 
 ### :woman_technologist: About Me :
 
-- Results-oriented Data Analyst with over **5 years of hands-on experience in quantitative analysis** within the retail and e-commerce industry.
+- Results-oriented Data Analyst with over **6.5 years of hands-on experience in quantitative analysis** within the retail and e-commerce industry.
 - Specializes in **transforming complex data into actionable insights** that drive product innovation and business growth.
 - Possesses a **strong understanding of data quality dimensions** including accuracy, completeness, and consistency.
 - Highly proficient in **crafting complex SQL queries** for data extraction and analysis, and skilled in using **Python and Tableau** for effective data visualization.

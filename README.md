@@ -55,6 +55,4 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=s-gunde&theme=shadow_green)](https://git.io/streak-stats)
-
 ![Srujana's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-gunde&theme=shadow_green&show_icons=true)

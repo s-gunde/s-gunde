@@ -56,3 +56,6 @@
 ### :fire: My Stats :
 
 ![Srujana's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-gunde&theme=shadow_green&show_icons=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=s-gunde&theme=dark&hide_border=false&border_radius=10)](https://git.io/streak-stats)
+

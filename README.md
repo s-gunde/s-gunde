@@ -54,4 +54,4 @@
 ---
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=s-gunde&theme=soft-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=s-gunde&theme=ambient-gradient)](https://git.io/streak-stats)

@@ -54,4 +54,11 @@
 ---
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=s-gunde&theme=ambient-gradient)](https://git.io/streak-stats)
+![Srujana's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s-gunde&theme=vue)
+
+
+
+
+
+
+
